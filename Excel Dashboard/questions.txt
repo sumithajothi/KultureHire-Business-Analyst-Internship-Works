@@ -1,0 +1,13 @@
+Consider the following business questions while creating your dashboard in Excel for Career Aspirations of GenZ.
+
+What are the top 5 influences on career aspirations?
+Top 5 preferred company types.
+GenZ who wanted to pursue a Higher Education
+Top 3 work setup
+Alignment of company mission and actions
+Clarity of company mission (percentage).
+Distribution of minimum expected salary for the first three years.
+Most common work frustrations.
+Slicer as Gender
+KPI - Total Respondents
+KPI - Gender Distribution (Eg: 60% Male, 40% Female)
